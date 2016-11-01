@@ -51,6 +51,29 @@
 <fanart></fanart>
 </item>
 
+<channels>
+
+
+<channel>
+<name>Selena</name>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<items>
+
+<item>
+<title>Como la flor </title>        
+<urlsolve></urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title> </title>        
+<urlsolve>https://www.youtube.com/watch?v=tsCKWjKAAD0</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
 </items>
 </channel>
 
