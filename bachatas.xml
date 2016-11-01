@@ -4,29 +4,45 @@
 
 
 <channel>
-<name>Julio Iglesias</name>
+<name>Prince Royce</name>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <items>
 
 
 <item>
-<title>Hey</title>
-<urlsolve>https://www.youtube.com/watch?v=FR4eMEpbVRw</urlsolve>
+<title>Darte Un Beso</title>
+<urlsolve>https://www.youtube.com/watch?v=TwmZbeQ87yY</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>POR EL AMOR DE UNA MUJER </title>        
-<urlsolve>https://www.youtube.com/watch?v=yZIhy33GU50</urlsolve>
+<title>Mi Ultima Carta </title>        
+<urlsolve>https://www.youtube.com/watch?v=_WOXFMcmmI4</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<channels>
+
+
+<channel>
+<name>Romeo Santos</name>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<items>
+
+<item>
+<title>Propuesta indecente </title>        
+<urlsolve>https://www.youtube.com/watch?v=E9Go5_P79uY</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>POR EL AMOR DE UNA MUJER </title>        
-<urlsolve>https://www.youtube.com/watch?v=yZIhy33GU50</urlsolve>
+<title>eres mia </title>        
+<urlsolve>https://www.youtube.com/watch?v=4_9Tk0Uprkg</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
