@@ -23,28 +23,6 @@
 <fanart></fanart>
 </item>
 
-</items>
-</channel>
-
-<channel>
-<name>Mana</name>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<items>
-
-<item>
-<title>Hey</title>
-<urlsolve>https://www.youtube.com/watch?v=FR4eMEpbVRw</urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>POR EL AMOR DE UNA MUJER </title>        
-<urlsolve>https://www.youtube.com/watch?v=yZIhy33GU50</urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
 
 </items>
 </channel>
