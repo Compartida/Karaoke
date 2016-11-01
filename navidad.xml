@@ -4,21 +4,56 @@
 
 
 <channel>
-<name>Julio Iglesias</name>
+<name>navidad2016</name>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <items>
 
 <item>
-<title>Hey</title>
-<urlsolve>https://www.youtube.com/watch?v=FR4eMEpbVRw</urlsolve>
+<title>Burrito Sabanero</title>
+<urlsolve>https://www.youtube.com/watch?v=HhTZ81l9QDw</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>POR EL AMOR DE UNA MUJER </title>        
-<urlsolve>https://www.youtube.com/watch?v=yZIhy33GU50</urlsolve>
+<title>Pero mira cómo beben </title>        
+<urlsolve>https://www.youtube.com/watch?v=mWW8f5vhLKU</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Campana Sobre Campana </title>        
+<urlsolve>https://www.youtube.com/watch?v=35eMTA3PZFM</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>El Nino Del Tambor </title>        
+<urlsolve>https://www.youtube.com/watch?v=0pBWtAJlMS8</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Noche de Paz </title>        
+<urlsolve>https://www.youtube.com/watch?v=35FqRA85xbs</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Feliz Navidad</title>        
+<urlsolve>https://www.youtube.com/watch?v=xcrWIErP4HI</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Blanca Navidad</title>        
+<urlsolve>https://www.youtube.com/watch?v=PFtMXoLpS5M</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
