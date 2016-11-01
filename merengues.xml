@@ -4,24 +4,53 @@
 
 
 <channel>
-<name>Julio Iglesias</name>
+<name>variedad</name>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <items>
 
 <item>
-<title>Hey</title>
-<urlsolve>https://www.youtube.com/watch?v=FR4eMEpbVRw</urlsolve>
+<title>blanco y negro</title>
+<urlsolve>https://www.youtube.com/watch?v=3CjnYWSY38c</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>POR EL AMOR DE UNA MUJER </title>        
-<urlsolve>https://www.youtube.com/watch?v=yZIhy33GU50</urlsolve>
+<title>Asi Fue</title>        
+<urlsolve>https://www.youtube.com/watch?v=QHyzC73ubwk</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
+
+<item>
+<title>La Quiero A Morir</title>        
+<urlsolve>https://www.youtube.com/watch?v=ZlCYqhPaWBU</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Noches de Fantasía</title>        
+<urlsolve>https://www.youtube.com/watch?v=cJ9V5iD60Wc</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Si me dejas no vale</title>        
+<urlsolve>https://www.youtube.com/watch?v=_csIo06nZ88</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title></title>        
+<urlsolve>https://www.youtube.com/watch?v=_csIo06nZ88</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
 
 </items>
 </channel>
