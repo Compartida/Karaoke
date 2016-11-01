@@ -50,8 +50,8 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
-
-<channels>
+</items>
+</channel>
 
 
 <channel>
@@ -143,8 +143,8 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
-
-<channels>
+</items
+</channel>
 
 
 <channel>
@@ -362,7 +362,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
-
 </items>
 </channel>
 
