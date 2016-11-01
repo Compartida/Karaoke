@@ -4,21 +4,28 @@
 
 
 <channel>
-<name>Julio Iglesias</name>
+<name>Luis Miguel </name>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <items>
 
 <item>
-<title>Hey</title>
-<urlsolve>https://www.youtube.com/watch?v=FR4eMEpbVRw</urlsolve>
+<title>Si nos Dejan</title>
+<urlsolve>https://www.youtube.com/watch?v=uXkubrEPZXE</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>POR EL AMOR DE UNA MUJER </title>        
-<urlsolve>https://www.youtube.com/watch?v=yZIhy33GU50</urlsolve>
+<title>El dia que me quieras </title>        
+<urlsolve>https://www.youtube.com/watch?v=dFYPXMXyCGM</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Sabor A Mi </title>        
+<urlsolve>https://www.youtube.com/watch?v=dFYPXMXyCGM</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
