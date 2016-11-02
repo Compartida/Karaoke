@@ -4,21 +4,58 @@
 
 
 <channel>
-<name>Julio Iglesias</name>
+<name>nicky jam</name>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <items>
 
 <item>
-<title>Hey</title>
-<urlsolve>https://www.youtube.com/watch?v=FR4eMEpbVRw</urlsolve>
+<title>travesuras</title>
+<urlsolve>https://www.youtube.com/watch?v=yZx5PUSqcZE</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>POR EL AMOR DE UNA MUJER </title>        
-<urlsolve>https://www.youtube.com/watch?v=yZIhy33GU50</urlsolve>
+<title>El Perdón</title>        
+<urlsolve>https://www.youtube.com/watch?v=j4yJLwpIFnc</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Hasta el amanecer</title>        
+<urlsolve>https://www.youtube.com/watch?v=dS4cOZ6jzr4</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<channels>
+
+
+<channel>
+<name>MALUMA</name>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<items>
+
+<item>
+<title>SIN CONTRATO </title>        
+<urlsolve>https://www.youtube.com/watch?v=hjIg2k43aGM</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Borró cassette</title>        
+<urlsolve>https://www.youtube.com/watch?v=P5t8Oc1a7RA</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Picky -Joey Montana</title>        
+<urlsolve>https://www.youtube.com/watch?v=gS_d9SwiCUg</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
