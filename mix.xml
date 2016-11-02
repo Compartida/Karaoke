@@ -31,10 +31,10 @@
 <name>tok</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
 <page>http://diskokosmiko.mx/[makelist.param2]</page>
-<referer>https://images-na.ssl-images-amazon.com/images/I/51VGMFXA0TL.jpg</referer>
+<referer>http://diskokosmiko.mx/santy/kareokesdj-winny-19599/list,1,15</referer>
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>http://pics.filmaffinity.com/pablo_escobar_el_patron_del_mal_tv_series-432126437-large.jpg</thumbnail>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/51VGMFXA0TL.jpg</thumbnail>
 <fanart>http://www.costablancadirectory.es/wp-content/uploads/2016/07/karaoke-1.png</fanart>
 </item>
