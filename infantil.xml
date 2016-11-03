@@ -4,14 +4,21 @@
 
 
 <channel>
-<name></name>
+<name>MELODY RUIZ</name>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <items>
 
 <item>
-<title></title>
-<urlsolve></urlsolve>
+<title>DE PATA NEGRA</title>
+<urlsolve>https://www.youtube.com/watch?v=dAwaRyR5EdA</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>El Baile Del Gorila</title>
+<urlsolve>https://www.youtube.com/watch?v=IpCQLa_u36I</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
