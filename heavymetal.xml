@@ -4,25 +4,31 @@
 
 
 <channel>
-<name>Los manolos</name>
+<name>BON JOVI</name>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <items>
 
 <item>
-<title>Amigos para siempre</title>
-<urlsolve>https://www.youtube.com/watch?v=dB0yr1e7wuM</urlsolve>
+<title>You give love a bad name</title>
+<urlsolve>https://www.youtube.com/watch?v=6P7r0JSTDq8</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title></title>
-<urlsolve>https://www.youtube.com/watch?v=dB0yr1e7wuM</urlsolve>
+<title>It's My Life Bon</title>
+<urlsolve>https://www.youtube.com/watch?v=UyY1MUGcfl4</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
+<item>
+<title>carrie - europe </title>
+<urlsolve>https://www.youtube.com/watch?v=wkNWhYUQ14E</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
 
 
 </items>
