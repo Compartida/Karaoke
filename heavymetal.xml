@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channels>
+
+
+<channel>
+<name>Los manolos</name>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<items>
+
+<item>
+<title>Amigos para siempre</title>
+<urlsolve>https://www.youtube.com/watch?v=dB0yr1e7wuM</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title></title>
+<urlsolve>https://www.youtube.com/watch?v=dB0yr1e7wuM</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+</items>
+</channel>
