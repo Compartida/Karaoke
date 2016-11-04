@@ -316,6 +316,40 @@
 <fanart></fanart>
 </item>
 
+<channel>
+<name>BALADAS INGLES</name>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<items>
+
+<item>
+<title>Titanic</title>        
+<urlsolve>https://www.youtube.com/watch?v=3E4fv2-e6NA</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>New York, New York in the style of</title>        
+<urlsolve>https://www.youtube.com/watch?v=s8lPbGlWd8A</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>New York, New York in the style of</title>        
+<urlsolve>https://www.youtube.com/watch?v=IuA-9ULCv5s</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Your Song - Elton John</title>        
+<urlsolve>https://www.youtube.com/watch?v=fGI2vCk6ykY</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
 </items>
 </channel>
 
