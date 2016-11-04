@@ -4,7 +4,7 @@
 
 
 <channel>
-<name>Thalia feat Maluma</name>
+<name>DUOS</name>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <items>
@@ -173,6 +173,27 @@
 <item>
 <title>NOS DIERON LAS 10 </title>        
 <urlsolve>https://www.youtube.com/watch?v=fq232ZL_kfM</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Luis Fonsi Y Juan Luis Guerra - Llegaste Tu</title>        
+<urlsolve>https://www.youtube.com/watch?v=YY2sqN1gfto</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Vivo por ella Andrea Bocelli y Martha Sanchez </title>        
+<urlsolve>https://www.youtube.com/watch?v=PiWjw82fqdc</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Vivo por ella Andrea Bocelli y Martha Sanchez </title>        
+<urlsolve>https://www.youtube.com/watch?v=PiWjw82fqdc</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
