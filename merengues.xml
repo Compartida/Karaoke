@@ -4,7 +4,7 @@
 
 
 <channel>
-<name>variedad1</name>
+<name>variedad</name>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <items>
@@ -80,7 +80,7 @@
 </item>
 
 <channel>
-<name>variedad2</name>
+<name>VARIOS CANTANTES</name>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <items>
@@ -133,15 +133,13 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
-<item>
 
 <title><item>
 <title>Un Beso Y Una Flor</title>        
 <urlsolve>https://www.youtube.com/watch?v=2A_tB28oeFc</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</item></title>        
-
+</item>       
 
 </items>
 </channel>
