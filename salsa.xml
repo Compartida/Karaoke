@@ -149,5 +149,32 @@
 <fanart></fanart>
 </item>
 
-</items>
+<channel>
+<name>SALSA VARIADA</name>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<items>
+
+<item>
+<title>Me dedique a perderte</title>
+<urlsolve>https://www.youtube.com/watch?v=fRg846Dw3DQ</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>ESTOS CELOS</title>
+<urlsolve>https://www.youtube.com/watch?v=-aECZnSQbjE</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>ESTOS CELOS</title>
+<urlsolve>https://www.youtube.com/watch?v=-aECZnSQbjE</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<items>
 </channels>
