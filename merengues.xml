@@ -71,12 +71,6 @@
 <fanart></fanart>
 </item>
 
-<item>
-<title>La Bilirrubina</title>        
-<urlsolve>https://www.youtube.com/watch?v=c8kKkUcuiRo</urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
 
 <item>
 <title>Ojala Que Llueva Cafe</title>        
@@ -84,6 +78,12 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
+
+<channel>
+<name>variedad</name>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<items>
 
 <item>
 <title>El Baile Del Perrito</title>        
