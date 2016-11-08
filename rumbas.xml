@@ -16,15 +16,46 @@
 <fanart></fanart>
 </item>
 
+<channel>
+<name>Chicos</name>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<items>
+
 <item>
-<title></title>
+<title>Popurri de rumbas</title>
+<urlsolve>https://www.youtube.com/watch?v=F9bZzrmWY04</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>El Vaquilla<item>
+<urlsolve>https://www.youtube.com/watch?v=in5enbX5JTw</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Sea Como Sea</title>
 <urlsolve>https://www.youtube.com/watch?v=dB0yr1e7wuM</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
+<item>
+<title> que cara mas bonita</title>
+<urlsolve>https://www.youtube.com/watch?v=9WHpcEMfoto</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
 
-
+<item>
+<title>Ni Mas Ni Menos</title>
+<urlsolve>https://www.youtube.com/watch?v=3HNsSfIOBcs</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
 </items>
 </channel>
 
