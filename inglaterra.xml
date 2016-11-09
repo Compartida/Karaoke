@@ -15,6 +15,21 @@
 <fanart></fanart>
 </item>
 
+<channels>
+
+<channel>
+<name>Joe Cocker</name>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<items>
+
+<item>
+<title>Unchain My Heart</title>        
+<urlsolve>https://www.youtube.com/watch?v=rqkggmJOViw&index=17&list=PLd6BIpp91la-Ed99vgobQV3mV7tjg7mAJ</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
 </items>
 </channel>
 
