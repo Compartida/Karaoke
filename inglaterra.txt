@@ -15,6 +15,13 @@
 <fanart></fanart>
 </item>
 
+<item>
+<title>Dust In The Wind</title>        
+<urlsolve>https://www.youtube.com/watch?v=58soUmYN2dI&index=2&list=PLNuQHds52mvm4qmHyWSfas2xy5akhlRsi</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
 </items>
 </channel>
 
