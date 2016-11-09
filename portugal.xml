@@ -4,15 +4,14 @@
 
 
 <channel>
-<name>musica portuguesa</name>
+<name>Los manolos</name>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <items>
 
-
 <item>
-<title>Chorando se foi</title>
-<urlsolve>https://www.youtube.com/watch?v=9XIT1eag97I</urlsolve>
+<title>Dancando lambada</title>        
+<urlsolve>https://www.youtube.com/watch?v=_Eg3hagSIZE</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
