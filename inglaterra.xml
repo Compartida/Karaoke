@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channels>
+
+<channel>
+<name>musica-ingles</name>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<items>
+
+<item>
+<title>Every Breath You Take</title>        
+<urlsolve>https://www.youtube.com/watch?v=4C7Fmg3_mkw&index=1&list=PLNuQHds52mvm4qmHyWSfas2xy5akhlRsi</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+</items>
+</channel>
+
+
+</channels>
