@@ -15,6 +15,20 @@
 <fanart></fanart>
 </item>
 
+<item>
+<title>Bailando</title>        
+<urlsolve>https://www.youtube.com/watch?v=UyvOHwQIcso&list=RDUyvOHwQIcso#t=13</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Loco</title>        
+<urlsolve>https://www.youtube.com/watch?v=YxCCQI-b0K0</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
 </items>
 </channel>
 
