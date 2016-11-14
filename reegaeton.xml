@@ -88,6 +88,27 @@
 <fanart></fanart>
 </item>
 
+
+<channel>
+<name>FARRUCO</name>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<items>
+
+<item>
+<title>Vivir Mi Vida</title>        
+<urlsolve>https://www.youtube.com/watch?v=q6bjghgpPXo</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Ella y Yo</title>        
+<urlsolve>https://www.youtube.com/watch?v=4Lq5SzRZ-2g</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
 </items>
 </channel>
 
