@@ -2,7 +2,6 @@
 
 <channels>
 
-
 <channel>
 <name>BON JOVI</name>
 <thumbnail></thumbnail>
@@ -23,8 +22,9 @@
 <fanart></fanart>
 </item>
 
-
-
-
 </items>
 </channel>
+
+</channels>
+
+
