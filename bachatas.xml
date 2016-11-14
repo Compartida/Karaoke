@@ -34,15 +34,29 @@
 <items>
 
 <item>
-<title>Propuesta indecente </title>        
+<title>Propuesta indecente</title>        
 <urlsolve>https://www.youtube.com/watch?v=E9Go5_P79uY</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>eres mia </title>        
+<title>eres mia</title>        
 <urlsolve>https://www.youtube.com/watch?v=4_9Tk0Uprkg</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Hilito</title>        
+<urlsolve>https://www.youtube.com/watch?v=zcjsxSoLd1Q</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Soberbio</title>        
+<urlsolve>https://www.youtube.com/watch?v=sBQHNt5jTS0</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
