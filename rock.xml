@@ -44,5 +44,25 @@
 <fanart></fanart>
 </item>
 
+<channel>
+<name>Pink Floyd</name>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<items>
+
+<item>
+<title>Mother</title>
+<urlsolve>https://www.youtube.com/watch?v=xMV9JwDXevs</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Wish You Were Here</title>
+<urlsolve>https://www.youtube.com/watch?v=_SQaYGzc9Ao</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
 </items>
 </channel>
