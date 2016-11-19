@@ -435,7 +435,75 @@
 <fanart></fanart>
 <item>
 
-</channel>
+<channel>
+<name>ROSANA</name>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<items>
 
+<item>
+<title>Si Tu NO Estas Aqui</title>        
+<urlsolve>https://www.youtube.com/watch?v=KFR_LX-LkX4</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<item>
+
+<item>
+<title>Nadie Mas Que Yo</title>        
+<urlsolve>https://www.youtube.com/watch?v=lQn4q9fGKHc</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<item>
+
+<item>
+<title>Lunas Rotas</title>        
+<urlsolve>https://www.youtube.com/watch?v=aDWFf7IoWyo</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<item>
+
+<item>
+<title>Contigo</title>        
+<urlsolve>https://www.youtube.com/watch?v=X8l-3cL1zWo</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<item>
+
+<item>
+<title>Pa'TiNoEstoy</title>        
+<urlsolve>https://www.youtube.com/watch?v=4WDij-iGSME</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<item>
+
+<item>
+<title>El Talismán</title>        
+<urlsolve>https://www.youtube.com/watch?v=Rq1Qyc5-LDw</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<item>
+
+<item>
+<title>A Fuego Lento</title>        
+<urlsolve>https://www.youtube.com/watch?v=j2ElJP6CHVs</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<item>
+
+<item>
+<title>Llegaremos a Tiempo</title>        
+<urlsolve>https://www.youtube.com/watch?v=7wQXTbZBCEs</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<item>
+
+<item>
+<title>Carta Urgente</title>        
+<urlsolve>https://www.youtube.com/watch?v=DJVaPcIEEhg</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<item>
+
+</channel>
 
 </channels>
