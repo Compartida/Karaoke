@@ -332,6 +332,47 @@
 <fanart></fanart>
 </item>
 
+<channel>
+<name>AMERICO</name>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<items>
+
+<item>
+<title>Que Levante La Mano</title>        
+<urlsolve>https://www.youtube.com/watch?v=J5mE03pt_Ac</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Me Enamore de ti</title>        
+<urlsolve>https://www.youtube.com/watch?v=HGGPeKaPFYY</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Tracionera</title>        
+<urlsolve>https://www.youtube.com/watch?v=wZjcOn0bKFw</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Te Vas</title>        
+<urlsolve>https://www.youtube.com/watch?v=_y7GgLnBgqI</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Tendria Que Llorar Por Ti</title>        
+<urlsolve>https://www.youtube.com/watch?v=jCXE_TdA3Dc</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
 </items>
 </channel>
 
