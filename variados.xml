@@ -435,6 +435,8 @@
 <fanart></fanart>
 <item>
 
+<channels>
+
 <channel>
 <name>ROSANA</name>
 <thumbnail></thumbnail>
@@ -503,6 +505,7 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 <item>
+
 <items>
 
 </channel>
