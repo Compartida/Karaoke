@@ -141,12 +141,33 @@
 <fanart></fanart>
 </item>
 
-<title><item>
+<item>
 <title>Un Beso Y Una Flor</title>        
 <urlsolve>https://www.youtube.com/watch?v=2A_tB28oeFc</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>       
+
+<item>
+<title>Jean Carlos - Entre la noche y el dia</title>        
+<urlsolve>https://www.youtube.com/watch?v=FP1bB_Wr7tw</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Jean Carlos pensamientos y palabras</title>        
+<urlsolve>https://www.youtube.com/watch?v=pPkYISNiRWQ</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Jean Carlos a puro dolor</title>        
+<urlsolve>https://www.youtube.com/watch?v=8FVpHHGQaqg</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
 
 </items>
 </channel>
