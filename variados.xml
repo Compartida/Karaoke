@@ -552,7 +552,27 @@
 <fanart></fanart>
 <item>
 
+<channel>
+<name>MANOLO GARCIA</name>
+<thumbnail></thumbnail>
+<fanart></fanart>
 <items>
 
+<item>
+<title>Pájaros de barro</title>        
+<urlsolve>https://www.youtube.com/watch?v=X3fmr9_v8TM</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<item>
+
+<item>
+<title>Nunca El Tiempo Es Perdido </title>        
+<urlsolve>https://www.youtube.com/watch?v=ZUDiHO3rnRQ</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<item>
+
+<items>
 </channel>
 
+</channels>
