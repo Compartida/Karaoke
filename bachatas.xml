@@ -84,7 +84,6 @@
 <fanart></fanart>
 </item>
 
-<item>
 <title>La Guagua</title>        
 <urlsolve>https://www.youtube.com/watch?v=tJTLxFAfe0A</urlsolve>
 <thumbnail></thumbnail>
@@ -98,6 +97,15 @@
 <fanart></fanart>
 </item>
 
+<item>
+<title>Un gato en la oscuridad</title>        
+<urlsolve>https://www.youtube.com/watch?v=TFk6KUxgq-0</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
 <items>
+
+</channel>
 
 </channels>
