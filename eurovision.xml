@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channels>
+
+<channel>
+<name>EUROVISION</name>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<items>
+
+<item>
+<title>La Noche Es Para MÍ</title>        
+<urlsolve>https://www.youtube.com/watch?v=VDbLVc5HuEg</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+</items>
+</channel>
+
+
+</channels>
