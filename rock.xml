@@ -66,3 +66,54 @@
 
 </items>
 </channel>
+
+<channel>
+<name>Metallica</name>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<items>
+
+<item>
+<title>Nothing Else Matters</title>
+<urlsolve>https://www.youtube.com/watch?v=5VLgqZuQXTg</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Unforgiven</title>
+<urlsolve>https://www.youtube.com/watch?v=cDVMNxyoFUo</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Enter Sandman</title>
+<urlsolve>https://www.youtube.com/watch?v=sMzAotfj6Cgo</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>One</title>
+<urlsolve>https://www.youtube.com/watch?v=ko-gPtT2OtA</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Master of Puppets</title>
+<urlsolve>https://www.youtube.com/watch?v=U4vvuPRVt3A</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>For Whom The Bell Tolls</title>
+<urlsolve>https://www.youtube.com/watch?v=Aq8fbYk1jwc</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+</items>
+</channel>
