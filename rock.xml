@@ -52,7 +52,7 @@
 
 <item>
 <title>Mother</title>
-<urlsolve>https://www.youtube.com/watch?v=xMV9JwDXevs</urlsolve>
+<urlsolve>https://www.youtube.com/watch?v=iXzPk86hiUQ</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
@@ -179,6 +179,42 @@
 </items>
 </channel>
 
+<channel>
+<name>Queen</name>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<items>
+
+<item>
+<title>I Want To Break Free</title>
+<urlsolve>https://www.youtube.com/watch?v=vJez0_Ql2gY</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Show Must Go On</title>
+<urlsolve>https://www.youtube.com/watch?v=q3DqqusAn3M</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Don't Stop Me Now</title>
+<urlsolve>https://www.youtube.com/watch?v=fuMN34FeSL4</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Somebody To Love Karaoke</title>
+<urlsolve>https://www.youtube.com/watch?v=0okVOrZN2oo</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+</items>
+</channel>
 <channel>
 <name>Fito y Fitipaldis</name>
 <thumbnail></thumbnail>
