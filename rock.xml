@@ -200,7 +200,7 @@
 </item>
 
 <item>
-<title>Somebody To Love Karaoke</title>
+<title>Somebody To Love</title>
 <urlsolve>https://www.youtube.com/watch?v=0okVOrZN2oo</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -209,7 +209,35 @@
 </items>
 </channel>
 
+<channel>
+<name>Extremoduro</name>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<items>
 
+<item>
+<title>Jesucristo Garcia</title>
+<urlsolve>https://www.youtube.com/watch?v=m6TWrLlWrUA</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Salir</title>
+<urlsolve>https://www.youtube.com/watch?v=A7zeQLrAYI0</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>So payaso</title>
+<urlsolve>https://www.youtube.com/watch?v=f0dNcYEVG2k</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+</items>
+</channel>
 
 </items>
 </channel>
